@@ -52,19 +52,19 @@ This project implements a web server on an ESP32 microcontroller that displays t
 
 ### HTTP Request Format
 
-![HTTP Request Format](HTTP Request.png)
+![HTTP Request Format](HTTPRequest.png)
 
 This image shows the typical format of an HTTP request. The ESP32 web server processes these requests to determine which actions to take.
 
 ### HTTP Response Format
 
-![HTTP Response Format](HTTP Response.png)
+![HTTP Response Format](HTTPResponse.png)
 
 This image illustrates the format of an HTTP response. The ESP32 sends responses in this format, including the HTML content for the web interface.
 
 ## System Architecture
 
-![System Architecture](Scenario (3).jpg)
+![System Architecture](Scenario.jpg)
 
 This diagram shows the overall system architecture:
 - The ESP32 acts as a web server (IP: 192.168.8.100), connected to a temperature/humidity sensor and LEDs.
