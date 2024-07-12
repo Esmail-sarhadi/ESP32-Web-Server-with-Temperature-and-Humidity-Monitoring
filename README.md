@@ -14,6 +14,7 @@ This project implements a web server on an ESP32 microcontroller that displays t
 
 ## Hardware Requirements
 
+
 - ESP32 development board
 - DHT11 temperature and humidity sensor
 - Buzzer
