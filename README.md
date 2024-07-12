@@ -5,6 +5,7 @@ This project implements a web server on an ESP32 microcontroller that displays t
 
 ## Features
 
+
 - WiFi connectivity
 - Web server implementation
 - Temperature and humidity monitoring using DHT11 sensor
