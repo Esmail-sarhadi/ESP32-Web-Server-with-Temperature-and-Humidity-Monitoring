@@ -68,6 +68,7 @@ This image illustrates the format of an HTTP response. The ESP32 sends responses
 
 ![System Architecture](Scenario.jpg)
 
+
 This diagram shows the overall system architecture:
 - The ESP32 acts as a web server (IP: 192.168.8.100), connected to a temperature/humidity sensor and LEDs.
 - A client device (e.g., laptop, IP: 192.168.8.101) can access the web interface.
